@@ -1,0 +1,17 @@
+# keep private files out of any future remote
+private/
+*.pdf
+*.docx
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.bak
+*.tmp
+*.log
+Desktop.ini
