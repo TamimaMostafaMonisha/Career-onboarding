@@ -5,8 +5,16 @@
 |---|---|---|---|---|---|---|
 | 2026-09-30 | PayPay Card | Backend Engineer (Tokyo) | JP | JP | Rejected at screening (reported 10 Oct) | Posting family asks 4+ yrs Java; user has 3+ |
 | 2026-09-30 | Tipico | Java Developer (Karlsruhe) | DE | EU | Rejected at screening (by 6 Oct) | Asked €60k, start 2–3 months after signing |
+| 2026-10-11 | Optimizely | [Software Engineer II (Dhaka)](https://careers.optimizely.com/job/Dhaka-Software-Engineer-II-1212-BD/1363501155/) | BD | 2026_A, tailored | Prepared — user to submit | Good match, 2–5 yrs. Re-posted 8 Oct → apply by 13 Oct. Mostly a C#/.NET stack; Java accepted |
+| 2026-10-11 | Addepto | [Senior Java Developer (Platform Modernization)](https://himalayas.app/companies/addepto/jobs/senior-java-developer-platform-modernization) | Remote | 2026_A, tailored | Prepared — user to submit | Stretch: asks 5+ yrs. Kept for the close legacy Oracle→PostgreSQL migration fit. Posted 8 Oct; closes 7 Dec; apply via Himalayas |
+| 2026-10-11 | Picnic | [Software Engineer (Java), Warehouse Systems](https://jobs.picnic.app/nl/vacancies?gh_jid=7942098&gh_src=gz19nw801us) | NL | EU, tailored | Prepared — user to submit | Good match, 2–5 yrs; JD asks for "agentic engineering". Send LinkedIn referral notes first. MSc asked "or equivalent" |
 
-Status values: Applied · Screening call · Tech round · Final · Offer · Rejected (stage) · Withdrawn · No reply (after 21 days).
+Status values: Prepared — user to submit · Applied · Screening call · Tech round · Final · Offer · Rejected (stage) · Withdrawn · No reply (after 21 days). Change "Prepared" to "Applied" with the send date when you submit.
+
+## Prepared 11 Oct (batch 1: 2 BD/remote + 1 EU)
+The tailored summary, top 3 bullets and skills line for each role are in `private/cv-tailored/2026-10-11_tailored.md`. That file is gitignored because it holds CV-only metrics. Each posting was checked as open on 11 Oct.
+- **Swapped out:** EVB and micro1 (remote Java contracts) no longer resolve on Himalayas, so they look closed. Mayflower is closed. MonetizeNow (BD remote) asks for 8+ years.
+- **Fix before sending:** the CV files are missing from `D:\Study\Onboarding\CV`. The Replica Scan result also differs between sources: 4/5 in the CV Review, 5/5 in `02_PROFILE.md`. Use one figure everywhere.
 
 ## Why both were rejected at screening (diagnosis, 10 Oct)
 Two rejections is too small a sample to prove the CV is bad. The likely causes, most to least likely:

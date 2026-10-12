@@ -62,3 +62,4 @@ Rules for any new project: one at a time; must map to target JDs; user approves 
 ## Build log (Codex appends here)
 | Date | Repo | Milestone | Commit | Notes |
 |---|---|---|---|---|
+| 2026-10-11 | ledger-service | M1 | 6d4f16f | Built by Claude Code. Accounts + recorded transfers, Flyway V1, durable/concurrent Idempotency-Key (UNIQUE + ON CONFLICT DO NOTHING), Compose, README. 39 tests pass on real PostgreSQL 17 via the external-DB override; Testcontainers + `docker compose up` not yet run (no Docker on this PC). Codex review pending. |
